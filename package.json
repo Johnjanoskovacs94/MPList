@@ -1,7 +1,7 @@
 {
   "www.parlamentodeandalucia.es": "parliment-data",
   "ver{>>" # Direction SPAIN NOW AT MY MENT www.parlamentodeandalucia.es        sion": "1.0.0",
-  "description": "",
+  "description{>>" # ATTACK LETS GO AMERICA ATTACK DIRECTION RUSSIA NON STOP ": "",
   "main": "live.js",
   "scripts": {
     "update": "node ./update.js",
